@@ -15,3 +15,4 @@ In simple words, Task 4 teaches how to take data, train a computer to learn patt
 This task helps in understanding how computers can “think” with data and make smart decisions. It is very practical because Machine Learning is used in many real-life applications like online recommendations, fraud detection, and self-driving cars. Task 4 gives hands-on experience with these concepts and prepares for solving real-world problems using ML models.
 
 #OUTPUT:
+<img width="1697" height="478" alt="Image" src="https://github.com/user-attachments/assets/d1d81276-901c-4b02-9bdb-c4905e136331" />
